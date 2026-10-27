@@ -1,0 +1,20 @@
+# Data and trained weights must not be accidentally committed
+*.keras
+*.h5
+*.ckpt
+ckpt-*.index
+ckpt-*.data-*
+*.zip
+*.npz
+*.npy
+__pycache__/
+.ipynb_checkpoints/
+.kaggle/
+.env
+*.key
+*.pem
+project/checkpoints/
+project/data/
+project/results/
+/kaggle/working/
+/content/

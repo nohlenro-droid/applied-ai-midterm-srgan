@@ -1,0 +1,13 @@
+{
+  "n": 7479,
+  "both_correct": 6964,
+  "A_correct_B_wrong": 351,
+  "A_wrong_B_correct": 61,
+  "both_wrong": 103,
+  "accuracy_difference_percentage_points": 3.878,
+  "paired_bootstrap_95ci_pp": [
+    3.356,
+    4.412
+  ],
+  "exact_mcnemar_p": 1.35247e-50
+}

@@ -1,0 +1,3 @@
+dataset_subset,count,metric,bicubic,srgan,difference
+heldout test,256,PSNR_dB,25.0447,26.0263,0.9816
+heldout test,256,SSIM,0.7033,0.7302,0.0269
